@@ -1,0 +1,8 @@
+{
+    "name": "tsoisoonthorn/rlje-api-wp-plugin",
+    "autoload": {
+        "psr-0" : {
+            "TSoisoonthorn\\RLJEAPIWPPlugin" : "src"
+        }
+    }
+}
